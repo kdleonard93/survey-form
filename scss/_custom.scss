@@ -1,0 +1,31 @@
+html, body {
+    background: linear-gradient(90deg, #dfe210 0%, #3adb76 100%);;
+    text-align: center;
+}
+
+#form-outer {
+    background-color: rgb(150, 250, 250);
+    margin: 0 auto;
+    border-radius: 4px;
+    width: 75%;
+    max-width: 900px;
+    padding: 40px 0px 10px 0px;
+  }
+
+#title {
+    color: white;
+    // text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#description {
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+}
+
+.success-button {
+    border-radius: 5%;
+}
